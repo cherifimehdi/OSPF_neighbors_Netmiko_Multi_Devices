@@ -1,5 +1,7 @@
 # OSPF_neighbors_Netmiko_Multi_Devices
 Cisco Community Second Blog Series:  What is the status of the OSPF neighbors of your device?! Netmiko Case OSPF Neighbors Multi-Devices
+
+
 Note: Please leave a star if you find it helpful!
 
 
